@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/orthodox-alendar/static/css/main.dd88be14.chunk.css",
+    "main.css": "/orthodox-alendar/static/css/main.00a31708.chunk.css",
     "main.js": "/orthodox-alendar/static/js/main.dac34f50.chunk.js",
     "main.js.map": "/orthodox-alendar/static/js/main.dac34f50.chunk.js.map",
     "runtime-main.js": "/orthodox-alendar/static/js/runtime-main.1d07b559.js",
@@ -10,14 +10,14 @@
     "static/js/3.d8e1a33c.chunk.js": "/orthodox-alendar/static/js/3.d8e1a33c.chunk.js",
     "static/js/3.d8e1a33c.chunk.js.map": "/orthodox-alendar/static/js/3.d8e1a33c.chunk.js.map",
     "index.html": "/orthodox-alendar/index.html",
-    "static/css/main.dd88be14.chunk.css.map": "/orthodox-alendar/static/css/main.dd88be14.chunk.css.map",
+    "static/css/main.00a31708.chunk.css.map": "/orthodox-alendar/static/css/main.00a31708.chunk.css.map",
     "static/js/2.8cec88d7.chunk.js.LICENSE.txt": "/orthodox-alendar/static/js/2.8cec88d7.chunk.js.LICENSE.txt",
     "static/media/App.css": "/orthodox-alendar/static/media/232048.f234302b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1d07b559.js",
     "static/js/2.8cec88d7.chunk.js",
-    "static/css/main.dd88be14.chunk.css",
+    "static/css/main.00a31708.chunk.css",
     "static/js/main.dac34f50.chunk.js"
   ]
 }
