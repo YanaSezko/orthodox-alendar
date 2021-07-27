@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  font-size: 20px;
+  background: rgb(240, 219, 219);
+  text-align: center;
+  padding: 20px;
+  font-family: 'Comfortaa', cursive;
+  line-height: 2em;
+  border: 20px solid transparent;
+  border-image: url(./image/232048.jpg);
+  border-image-slice: 120;
+  border-image-repeat: round;
+  
+  min-height: 100vh;
+}
